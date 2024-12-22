@@ -116,10 +116,9 @@ menu li a:hover{color: var(--narinci);}
     }
 }
 
-
 #burgerBtn:checked~menu{
     position: absolute;
-    top: 40px;
+    top: 50px;
     right: 0;
     display: flex;
     flex-direction: column;
